@@ -7,7 +7,7 @@
 
 # GOALS.
 The goal of using the three models is to get a prediction of all three models and use the prediction in which at leat two of models agree.
-This is due to the fact that the model with the best accuracy is LSTM which is about 65%, and Random Forest having about 57% accuracy in predicting stocks, these are still quite low.
+This is due to the fact that the models with the best accuracies are LSTM which is about 65%, and Random Forest having about 57% accuracy in predicting stocks, these are still quite low.
 
 # How to Run The App.
 
